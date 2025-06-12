@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on finishing my studies at Universidade da Coruña<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning Computer Science, the Computing branch<br>
+🔭 I’m currently working on finishing my studies at Universidade da Coruña<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning Computer Science, the Computing branch. I'm also interested in motion capture<br>
 
 
 ## 🌐 Socials:
