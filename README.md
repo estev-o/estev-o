@@ -7,7 +7,7 @@
 
 ## 🚀 Personal Projects:
 
-### [📚 Mis apuntes de la Universidad](https://github.com/estev-o/Apuntes_Obsidian) / [📚 Computer Science Notes](https://github.com/estev-o/Apuntes_Obsidian)
+### [📚 Mis apuntes de la Universidad](https://github.com/estev-o/Apuntes_Obsidian) / [ Computer Science Notes](https://github.com/estev-o/Apuntes_Obsidian)
 📝 Apuntes que he tomado en **Obsidian** de las clases desde que estoy en mi mención de Computación, en estilo **Markdown (.md)**.
 
 📝 Notes I have taken in **Obsidian** from my Computer Science classes, written in **Markdown (.md)** format.
@@ -22,7 +22,7 @@ Además, incorpora una **IA especializada** con amplio conocimiento de la organi
 It allows filtering employees by their specialties and knowledge, improving internal communication.  
 It also integrates a **specialized AI** with deep knowledge of the company to answer questions and solve issues. 
 
-### [🌦️ Trabajo de Apréndizaje Automático](https://github.com/estev-o/AA-Practica2) / [🌦️ Machine Learning Project](https://github.com/estev-o/AA-Practica2)
+### [🌦️ Trabajo de Apréndizaje Automático](https://github.com/estev-o/AA-Practica2) / [ Machine Learning Project](https://github.com/estev-o/AA-Practica2)
 📝 Proyecto en **Julia** donde aplicamos distintos algoritmos de **Inteligencia Artificial** para el reconocimiento de fenómenos atmosféricos.  
 Incluye técnicas como **Deep Learning, DOME, ANN**, entre otros.  
 
