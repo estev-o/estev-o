@@ -7,10 +7,20 @@
 
 ## 🚀 Personal Projects:
 
-### [📚 Mis apuntes de la Universidad](https://github.com/estev-o/Apuntes_Obsidian)
+### [📚 Mis apuntes de la Universidad](https://github.com/estev-o/Apuntes_Obsidian) / [📚 Computer Science Notes](https://github.com/estev-o/Apuntes_Obsidian)
 📝 Apuntes que he tomado en **Obsidian** de las clases desde que estoy en mi mención de Computación, en estilo **Markdown (.md)**.
 
 📝 Notes I have taken in **Obsidian** from my Computer Science classes, written in **Markdown (.md)** format.
+
+### [📱 HackUdc2025](https://github.com/HugoVilr/HackUDC-Devs-Inc)
+
+📝 Aplicación móvil desarrollada con mis compañeros para la competición **HackUDC (reto Gradiant)**.  
+Permite filtrar el personal de una empresa según sus especialidades y conocimientos, mejorando la comunicación interna.  
+Además, incorpora una **IA especializada** con amplio conocimiento de la organización para responder dudas y resolver cuestiones.  
+
+📝 Mobile app developed for the **HackUDC competition (Gradiant challenge)**.  
+It allows filtering employees by their specialties and knowledge, improving internal communication.  
+It also integrates a **specialized AI** with deep knowledge of the company to answer questions and solve issues.  
 
 ---
 
