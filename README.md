@@ -29,7 +29,7 @@ Incluye técnicas como **Deep Learning, DOME, ANN**, entre otros.
 📝 Project in **Julia** where we apply different **Artificial Intelligence** algorithms for the recognition of atmospheric phenomena.  
 It includes techniques such as **Deep Learning, DOME, ANN**, among others. 
 
-### [🛹 Proyecto de Skate eléctrico DIY](https://github.com/estev-o/electric-skateboard-diy) / [🛹 DIY Electric Skateboard Project](https://github.com/estev-o/electric-skateboard-diy) 
+### [🛹 Proyecto de Skate eléctrico DIY](https://github.com/estev-o/electric-skateboard-diy) / [DIY Electric Skateboard Project](https://github.com/estev-o/electric-skateboard-diy) 
 
 📝 Proyecto personal donde construí un **skate eléctrico desde cero**, sin kits prefabricados.  
 Incluye todas las fases del proceso: investigación, elección de componentes, montaje, cableado y pruebas finales.  
