@@ -7,10 +7,26 @@
 
 ## 🚀 Personal Projects:
 
-### [📚 Mis apuntes de la Universidad](https://github.com/estev-o/Apuntes_Obsidian) / [ Computer Science Notes](https://github.com/estev-o/Apuntes_Obsidian)
-📝 Apuntes que he tomado en **Obsidian** de las clases desde que estoy en mi mención de Computación, en estilo **Markdown (.md)**.
+### [🛹 Proyecto de Skate eléctrico DIY](https://github.com/estev-o/electric-skateboard-diy) / [DIY Electric Skateboard Project](https://github.com/estev-o/electric-skateboard-diy) 
+📝 Proyecto personal donde construí un **skate eléctrico desde cero**, sin kits prefabricados.  
+Incluye todas las fases del proceso: investigación, elección de componentes, montaje, cableado y pruebas finales.  
+El resultado es un **longboard eléctrico funcional**, estable y práctico para trayectos cortos.  
 
-📝 Notes I have taken in **Obsidian** from my Computer Science classes, written in **Markdown (.md)** format.
+📝 Personal project where I built an **electric skateboard completely from scratch**, without using pre-made kits.  
+It covers all stages of the process: research, component selection, mounting, wiring, and final testing.  
+The result is a **fully functional electric longboard**, stable and reliable for short daily commutes.
+
+### [🌦️ Trabajo de Apréndizaje Automático](https://github.com/estev-o/AA-Practica2) / [ Machine Learning Project](https://github.com/estev-o/AA-Practica2)
+📝 Proyecto en **Julia** donde aplicamos distintos algoritmos de **Inteligencia Artificial** para el reconocimiento de fenómenos atmosféricos.  
+Incluye técnicas como **Deep Learning, DOME, ANN**, entre otros.  
+
+📝 Project in **Julia** where we apply different **Artificial Intelligence** algorithms for the recognition of atmospheric phenomena.  
+It includes techniques such as **Deep Learning, DOME, ANN**, among others. 
+
+### [🌐 Página Web Portfolio](https://estev-o.github.io/Portfolio/) / [Portfolio Web Page](https://estev-o.github.io/Portfolio/)
+📝 Página web simpe en HTML y CSS que desarrollé para usar de forma conjunta a este github con el objetivo de mostrar de forma más extensa como soy como programador.
+
+📝 Simple HTML and CSS website I developed to complement this GitHub profile, with the goal of providing a more detailed view of who I am as a programmer.
 
 ### [📱 HackUdc2025](https://github.com/HugoVilr/HackUDC-Devs-Inc)
 
@@ -22,22 +38,10 @@ Además, incorpora una **IA especializada** con amplio conocimiento de la organi
 It allows filtering employees by their specialties and knowledge, improving internal communication.  
 It also integrates a **specialized AI** with deep knowledge of the company to answer questions and solve issues. 
 
-### [🌦️ Trabajo de Apréndizaje Automático](https://github.com/estev-o/AA-Practica2) / [ Machine Learning Project](https://github.com/estev-o/AA-Practica2)
-📝 Proyecto en **Julia** donde aplicamos distintos algoritmos de **Inteligencia Artificial** para el reconocimiento de fenómenos atmosféricos.  
-Incluye técnicas como **Deep Learning, DOME, ANN**, entre otros.  
+### [📚 Mis apuntes de la Universidad](https://github.com/estev-o/Apuntes_Obsidian) / [ Computer Science Notes](https://github.com/estev-o/Apuntes_Obsidian)
+📝 Apuntes que he tomado en **Obsidian** de las clases desde que estoy en mi mención de Computación, en estilo **Markdown (.md)**.
 
-📝 Project in **Julia** where we apply different **Artificial Intelligence** algorithms for the recognition of atmospheric phenomena.  
-It includes techniques such as **Deep Learning, DOME, ANN**, among others. 
-
-### [🛹 Proyecto de Skate eléctrico DIY](https://github.com/estev-o/electric-skateboard-diy) / [DIY Electric Skateboard Project](https://github.com/estev-o/electric-skateboard-diy) 
-
-📝 Proyecto personal donde construí un **skate eléctrico desde cero**, sin kits prefabricados.  
-Incluye todas las fases del proceso: investigación, elección de componentes, montaje, cableado y pruebas finales.  
-El resultado es un **longboard eléctrico funcional**, estable y práctico para trayectos cortos.  
-
-📝 Personal project where I built an **electric skateboard completely from scratch**, without using pre-made kits.  
-It covers all stages of the process: research, component selection, mounting, wiring, and final testing.  
-The result is a **fully functional electric longboard**, stable and reliable for short daily commutes.
+📝 Notes I've taken in **Obsidian** from my Computer Science classes, written in **Markdown (.md)** format.
 
 ---
 
